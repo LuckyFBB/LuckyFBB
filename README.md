@@ -3,8 +3,8 @@
 
 
 <div >
-  <img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=LuckyFBB&theme=buefy" />
-
+  <img height="170px"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyFBB&layout=compact&langs_count=8&theme=buefy" />
+  
   ### 🙇‍♀️ About Me
   - 🏃‍♀️  Four and a half years of working experience in Front-End development.
   - 💼  I'm currently working on DTStack.
@@ -16,8 +16,8 @@
 <br/>
 
 <div align="left">
-
-  <img height="170px"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyFBB&layout=compact&langs_count=8&theme=buefy" />
+<img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=LuckyFBB&theme=buefy" />
+ 
 
 ### 🛠️ Tech Stack
 - 🌐 &nbsp;
