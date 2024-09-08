@@ -6,10 +6,9 @@
   <img height="170px"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyFBB&layout=compact&langs_count=8&theme=buefy" />
   
   ### 🙇‍♀️ About Me
-  - 🏃‍♀️  Four and a half years of working experience in Front-End development.
-  - 💼  I'm currently working on DTStack.
+  - 🏃‍♀️  A Front-End developer and currently working on DTStack.
   - 🎓  Graduated from the School of Computer Science, Zhejiang University of Technology.
-  - ✍️   Here is my [blog](https://luckyfbb.github.io/blog).
+  - 📝  Here is my [blog](https://luckyfbb.github.io/blog).
   
 </div>
 
